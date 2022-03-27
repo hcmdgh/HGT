@@ -1,0 +1,7 @@
+__pycache__
+*.bak
+*.log 
+*test*
+.DS_Store
+.vscode
+temp
